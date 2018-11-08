@@ -5,7 +5,8 @@
 ##  for read only filesystem.
 
 # -name nerves_signal@0.0.0.0
--setcookie xuhhjsrhqmu54yg4wxqkwi2i7acvh62g7bkpng34gkif4bkixvu6br6ogfnwmn5w
+# you may want to set your own cookie value
+-setcookie MacadamiaNut
 
 ## Use Ctrl-C to interrupt the current shell rather than invoking the emulator's
 ## break handler and possibly exiting the VM.

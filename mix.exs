@@ -50,7 +50,8 @@ defmodule NervesSignal.MixProject do
 
   defp deps(target) do
     [
-      {:nerves_runtime, "~> 0.6"}
+      {:nerves_runtime, "~> 0.6"},
+      {:nerves_init_gadget, "~> 0.5"}
     ] ++ system(target)
   end
 
